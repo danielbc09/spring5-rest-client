@@ -1,4 +1,4 @@
-package com.dany.rest.springrestexamples;
+package com.dany.rest;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
